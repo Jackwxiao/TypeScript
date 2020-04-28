@@ -1,2 +1,1 @@
-let num: number = 123
-document.title = '12345'
+import './examples/basic-type.ts'
