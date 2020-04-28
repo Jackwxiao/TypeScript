@@ -22,7 +22,7 @@ module.exports = {
         stats: 'errors-only',
         compress: false,
         host: 'localhost',
-        port: 9090
+        port: 8089
     },
     plugins: [
         new CleanWebpackPlugin({
